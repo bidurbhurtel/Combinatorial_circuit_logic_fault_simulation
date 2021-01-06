@@ -1,0 +1,50 @@
+
+For the Pattern 222222222222222222222222222221222222222222222220210000022222
+
+340/0 	 Fault Detected
+758/0 	 Fault Not Detected
+466/1 	 Fault Not Detected
+156/1 	 Fault Not Detected
+375/1 	 Fault Not Detected
+347/1 	 Fault Not Detected
+319/0 	 Fault Not Detected
+
+For the Pattern 122211221122222112222222222222222222222222222220201020022120
+
+340/0 	 Fault Not Detected
+758/0 	 Fault Detected
+466/1 	 Fault Not Detected
+156/1 	 Fault Not Detected
+375/1 	 Fault Not Detected
+347/1 	 Fault Not Detected
+319/0 	 Fault Not Detected
+
+For the Pattern 202222222202222222222221222222222202222222222222200001222221
+
+340/0 	 Fault Not Detected
+758/0 	 Fault Not Detected
+466/1 	 Fault Detected
+156/1 	 Fault Not Detected
+375/1 	 Fault Not Detected
+347/1 	 Fault Detected
+319/0 	 Fault Not Detected
+
+For the Pattern 102012201212222222222221222222222222222122222222200001222222
+
+340/0 	 Fault Not Detected
+758/0 	 Fault Not Detected
+466/1 	 Fault Detected
+156/1 	 Fault Not Detected
+375/1 	 Fault Detected
+347/1 	 Fault Detected
+319/0 	 Fault Not Detected
+
+For the Pattern 002222222202222222222221222222222222222222222222200001222222
+
+340/0 	 Fault Not Detected
+758/0 	 Fault Not Detected
+466/1 	 Fault Detected
+156/1 	 Fault Not Detected
+375/1 	 Fault Not Detected
+347/1 	 Fault Detected
+319/0 	 Fault Not Detected

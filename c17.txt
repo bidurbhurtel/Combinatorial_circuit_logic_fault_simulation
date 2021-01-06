@@ -1,0 +1,48 @@
+
+For the Pattern 00022
+
+2/1 	 Fault Detected
+11/0 	 Fault Not Detected
+22/0 	 Fault Not Detected
+16/1 	 Fault Not Detected
+6/1 	 Fault Not Detected
+
+For the Pattern 21022
+
+2/1 	 Fault Not Detected
+11/0 	 Fault Detected
+22/0 	 Fault Detected
+16/1 	 Fault Detected
+6/1 	 Fault Not Detected
+
+For the Pattern 12122
+
+2/1 	 Fault Not Detected
+11/0 	 Fault Not Detected
+22/0 	 Fault Detected
+16/1 	 Fault Not Detected
+6/1 	 Fault Not Detected
+
+For the Pattern 11001
+
+2/1 	 Fault Not Detected
+11/0 	 Fault Detected
+22/0 	 Fault Detected
+16/1 	 Fault Detected
+6/1 	 Fault Not Detected
+
+For the Pattern 00111
+
+2/1 	 Fault Not Detected
+11/0 	 Fault Not Detected
+22/0 	 Fault Not Detected
+16/1 	 Fault Not Detected
+6/1 	 Fault Not Detected
+
+For the Pattern 11111
+
+2/1 	 Fault Not Detected
+11/0 	 Fault Not Detected
+22/0 	 Fault Detected
+16/1 	 Fault Not Detected
+6/1 	 Fault Not Detected
